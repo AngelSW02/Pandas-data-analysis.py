@@ -1,7 +1,7 @@
 # Pandas-data-analysis.py
 Assignment for Module 11 - Pandas Data Analysis
 Name: Angel Abrigo  
-Course: (Insert course)  
+Course: INST326
 Assignment: Module 11 – Data Analysis with Pandas
 Structure
 project/

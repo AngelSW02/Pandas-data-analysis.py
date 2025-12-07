@@ -8,8 +8,7 @@ Structure
 project/
 │── analyze_data.py  
 │── report.md  
-│── README.md  
-└── data/  
+│── README.md    
 └── dataset.csv
 How to Run
 1.	Install pandas:

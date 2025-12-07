@@ -4,6 +4,7 @@ Name: Angel Abrigo
 Course: INST326
 Assignment: Module 11 – Data Analysis with Pandas
 Structure
+
 project/
 │── analyze_data.py  
 │── report.md  
